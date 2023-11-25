@@ -1,0 +1,29 @@
+libg15render (3.0.4) buster; urgency=low
+* Some cleanup and fixes
+
+libg15render (3.0.3) buster; urgency=low
+* Updated config.guess and config.sub. Thanks  Nicolas F. (@CounterPillow)
+
+libg15render (3.0.2) buster; urgency=low
+* Remove AC PREREQ
+
+libg15render (3.0.1) buster; urgency=low
+* Fixup release
+
+libg15render (3.0) buster; urgency=low
+* Revamp the code
+
+libg15render (1.3.1) buster; urgency=low
+* Changed some internal versions
+
+libg15render (1.3) edgy; urgency=low
+  * Fork and Version Bump
+
+libg15render (1.2-1) edgy; urgency=low
+  * Add WBMP loading and drawing routines
+  * Add drawBigNum routine
+  * Add man page
+  * Enable right justified TTF printing
+
+libg15render (1.1-1) breezy; urgency=low
+  * Initial release
